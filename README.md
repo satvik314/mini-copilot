@@ -2,6 +2,9 @@
 
 by [Satvik](https://www.linkedin.com/in/satvik-paramkusham/)
 
+
+## Intro
+
 Mini-Copilot is a local copilot that you can run on your machine without the internet.
 
 ### What can it do?
